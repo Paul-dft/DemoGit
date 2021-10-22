@@ -1,28 +1,6 @@
 {
     "name":  "Projet", 
     
-    "librairies": [
-    
-            {
-                "name":  "JDBC", 
-                "version": "21.3.0",  
-                "description": "bla bla bla"
-            },
-            
-            {
-                "name":  "Junit",
-                "version": "4.13.2",
-                "description": "bla bla bla"
-            },
-            
-            {
-                "name":  "Jersey",
-                "version": "3.0.3",
-                "description": "bla bla bla"
-            }
-        
-        ],
-    
     "serveurs": [
     
             { 
